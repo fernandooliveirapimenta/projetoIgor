@@ -1,0 +1,10 @@
+/MessageResources.properties
+/actions/
+/com/
+/dao/
+/forms/
+/hibernate.cfg.xml
+/log4j.properties
+/model/
+/persistence/
+/service/

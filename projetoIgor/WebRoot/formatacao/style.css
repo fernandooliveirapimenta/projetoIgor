@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+input[type="text"] {
+  display: block;
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 18px;
+  appearance: none;
+  box-shadow: none;
+  border-radius: none;
+}
+input[type="text"]:focus {
+  outline: none;
+}
+input[type=submit]{
+  font-family: cursive;
+  color: #050505;
+  font-size: 14px; 
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 0px;
+  text-decoration: none;
+  color: orange;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight:lighter;
+    font-family: cursive;
+    color:  orange;
+}
+label {
+	 display: block;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight:lighter;
+    font-family: sans-serif;
+    color:  black;
+}
+
